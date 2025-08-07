@@ -13,7 +13,7 @@ const Header = () => {
               <Eye className="h-8 w-8 text-blue-600" />
               <div className="absolute inset-0 bg-blue-600/20 rounded-full blur-sm"></div>
             </div>
-            <span className="text-xl font-bold text-gray-900">Introspect</span>
+            <span className="text-xl font-bold text-gray-900">introspect</span>
           </div>
           
           <nav className="hidden md:flex items-center space-x-8">

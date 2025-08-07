@@ -69,7 +69,7 @@ const WhoWeServe = () => {
             </h3>
             <p className="text-lg mb-6 opacity-90">
               Whether you're a government health ministry, NGO, or frontline health worker, 
-              Introspect can help you deliver better diagnostic outcomes for the communities you serve.
+              introspect can help you deliver better diagnostic outcomes for the communities you serve.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">

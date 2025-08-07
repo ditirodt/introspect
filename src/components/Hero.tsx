@@ -26,7 +26,7 @@ const Hero = () => {
             <span className="text-gray-800 block text-3xl md:text-5xl mt-2">Anywhere, Anytime</span>
           </h1>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto mb-8 leading-relaxed">
-            Empowering frontline health workers with fast, accurate diagnostic tools that work on smartphones and edge devices — with or without internet access.
+            introspect uses AI-powered microscopy to diagnose malaria quickly and offline, bringing accurate detection to health facilities without labs or internet.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <button className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-8 py-3 rounded-xl font-semibold hover:from-blue-700 hover:to-indigo-700 transition-all duration-300 flex items-center gap-2 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
